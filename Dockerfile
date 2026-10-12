@@ -1,4 +1,4 @@
-FROM ghcr.io/cirruslabs/flutter:3.29.3 AS build
+FROM ghcr.io/cirruslabs/flutter:3.47.7 AS build
 
 ARG SUPABASE_URL
 ARG SUPABASE_ANON_KEY
